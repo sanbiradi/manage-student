@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
 # Screenshots
-[](https://raw.githubusercontent.com/sanbiradi/manage-student/refs/heads/master/Screenshot%20from%202024-11-21%2012-25-42.png)
-[](https://raw.githubusercontent.com/sanbiradi/manage-student/refs/heads/master/Screenshot%20from%202024-11-21%2012-25-51.png)
+![](https://raw.githubusercontent.com/sanbiradi/manage-student/refs/heads/master/Screenshot%20from%202024-11-21%2012-25-42.png)
+![](https://raw.githubusercontent.com/sanbiradi/manage-student/refs/heads/master/Screenshot%20from%202024-11-21%2012-25-51.png)
 
 ## Development server
 
