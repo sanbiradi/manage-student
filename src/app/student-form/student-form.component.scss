@@ -1,0 +1,25 @@
+.form-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    background: #ffffff;
+  }
+  
+  mat-form-field {
+    margin-bottom: 20px;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .button-container {
+    text-align: right;
+  }
+  
+  button {
+    min-width: 120px;
+  }
+  

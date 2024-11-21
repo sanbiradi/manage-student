@@ -1,0 +1,48 @@
+.student-table-container {
+    padding: 16px;
+    background-color: #fff;
+    border-radius: 8px;
+  
+    .header-actions {
+      display: flex;
+      justify-content: flex-start;
+      margin-bottom: 16px;
+  
+      button {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+  
+        mat-icon {
+          font-size: 20px;
+        }
+      }
+    }
+  
+    .student-table {
+      width: 100%;
+      border-collapse: collapse;
+  
+      th {
+        font-weight: bold;
+        text-align: left;
+        padding: 8px 16px;
+      }
+  
+      td {
+        padding: 8px 16px;
+      }
+  
+      .actions-cell {
+        display: flex;
+        gap: 8px;
+  
+        button {
+          mat-icon {
+            font-size: 20px;
+          }
+        }
+      }
+    }
+  }
+  
